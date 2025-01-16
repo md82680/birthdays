@@ -46,11 +46,11 @@ birthdays/
 
 ├── static/
 
-   └── styles.css      # CSS styling
+    └── styles.css      # CSS styling
 
 └── templates/
 
-    └── index.html      # Main page template
+     └── index.html      # Main page template
 
 ## Usage
 
