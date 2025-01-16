@@ -25,28 +25,26 @@ A full-stack web application that manages birthday records through a clean inter
 
 This setup will allow you to manage birthdays effectively through a user-friendly interface.
 
-bash
-git clone https://github.com/md82680/birthdays.git
-
-3. Install dependencies
+## Install dependencies
 
 bash
 pip install Flask
 pip install cs50
 
-4. Run the application
+## Run the application
 
 bash
 python app.py
 
 ## Project Structure
+
 birthdays/
-├── app.py # Flask application logic
-├── birthdays.db # SQLite database
+├── app.py              # Flask application logic
+├── birthdays.db        # SQLite database
 ├── static/
-│ └── styles.css # CSS styling
+│   └── styles.css      # CSS styling
 └── templates/
-└── index.html # Main page template
+    └── index.html      # Main page template
 
 ## Usage
 
