@@ -40,10 +40,15 @@ python app.py
 
 birthdays/
 ├── app.py              # Flask application logic
+
 ├── birthdays.db        # SQLite database
+
 ├── static/
+
 │   └── styles.css      # CSS styling
+
 └── templates/
+
     └── index.html      # Main page template
 
 ## Usage
