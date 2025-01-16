@@ -39,13 +39,14 @@ python app.py
 ## Project Structure
 
 birthdays/
+
 ├── app.py              # Flask application logic
 
 ├── birthdays.db        # SQLite database
 
 ├── static/
 
-│   └── styles.css      # CSS styling
+   └── styles.css      # CSS styling
 
 └── templates/
 
